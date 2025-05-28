@@ -4,4 +4,6 @@ It is a pipeline for analysing fragmentation of axons after co-culturing with NK
 
 Please follow the steps below:
 
-Step 1: Automatically measure total area of BtubIII+ axons and BtubIII+ particles by running the script '
+Step 1: Automatically measure total area of BtubIII+ axons and BtubIII+ particles by running the script 'Update Neurite fragmention_Macro_BtubIII.ijm'.
+
+
